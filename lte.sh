@@ -1,6 +1,6 @@
 #!/bin/sh
 
-PHONE="+48728943990"		# notify via sms
+PHONE="+48xxxxxxxxx"		# notify via sms
 TIMEOUT=5			# curl req timeout [sec]
 OPTIONS="-s"			# curl options
 ENDPOINT="192.168.8.1"		# HiLink endpoint
