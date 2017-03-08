@@ -1,2 +1,1 @@
-# net_cfg
-Configuration files for OpenWRT
+Configuration files for OpenWRT router
